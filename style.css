@@ -125,7 +125,25 @@ section{
   width: 100%;
   border-radius: 10px;
 }
+/*project buttton*/
 
+.project button{
+  margin-top:10px;
+  padding:8px 15px;
+  border:none;
+  background:#3b82f6;
+  color:white;
+  border-radius:5px;
+  cursor:pointer;
+  transition:0.3s;
+}
+
+.project button:hover{
+  background:#2563eb;
+}
+.project a{
+  text-decoration:none;
+}
 /* FOOTER */
 footer{
   text-align: center;
@@ -199,4 +217,5 @@ footer{
   .hero h1{
     font-size: 24px;
   }
+
 }
