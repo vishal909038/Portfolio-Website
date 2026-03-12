@@ -82,6 +82,7 @@ nav a{
   background: #2563eb;
 }
 
+
 /* SECTIONS */
 section{
   padding: 70px 10%;
@@ -125,6 +126,7 @@ section{
   width: 100%;
   border-radius: 10px;
 }
+
 /*project buttton*/
 
 .project button{
@@ -144,6 +146,7 @@ section{
 .project a{
   text-decoration:none;
 }
+
 /* FOOTER */
 footer{
   text-align: center;
@@ -217,5 +220,4 @@ footer{
   .hero h1{
     font-size: 24px;
   }
-
 }
